@@ -2,7 +2,7 @@
 This repository is my implementation of a Binary Search Tree data structure through Ruby which I undertook as part of The Odin Project. I implemented a class for the tree itself while also creating a class representing the nodes found in the tree. I also added several useful methods to the linked list class as shown below.
 
 # Guide for use
-To use this data structure, simply include it in your file, and create an instance of it with an array as an argument; all methods can be called directly on the instance of the class.
+To use this data structure, simply include it in your file or project, and create an instance of it with an array as an argument. All methods can be called directly on the instance of the class.
 
 # Methods
 | Methods           | Functionality |
